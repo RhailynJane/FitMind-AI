@@ -1,5 +1,26 @@
 # 📄 Architecture Decision Record: Navigation Strategy
 
+## Table of Contents
+
+- [Summary](#summary)
+- [Issue](#issue)
+- [Decision](#decision)
+- [Status](#status)
+- [Details](#details)
+  - [Assumptions](#assumptions)
+  - [Constraints](#constraints)
+  - [Positions: Comparative Analysis](#positions-comparative-analysis)
+- [Argument](#argument)
+- [Implications](#implications)
+- [Related Decisions](#related-decisions)
+- [Related Requirements](#related-requirements)
+- [Related Artifacts](#related-artifacts)
+- [Related Principles](#related-principles)
+- [Notes](#notes)
+- [References](#-references)
+
+---
+
 ## Summary
 
 We need to define a robust internal navigation strategy for **FitMind AI** that supports transitions between key sections such as login, dashboard, workouts, AI recommendations, and community features. The navigation system must be scalable, intuitive, compatible with React Native, and adaptable to mobile usage patterns.
