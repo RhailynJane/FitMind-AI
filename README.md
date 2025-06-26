@@ -38,7 +38,8 @@ Our key architecture decisions are documented below:
 - [001: Development Framework](docs/adr/001-development-framework.md)
 - [002: Navigation Strategy](docs/adr/002-navigation-strategy.md)
 - [003: Hardware Integration](docs/adr/003-hardware-integration.md)
-- [004: Database Storage](docs/adr/004-database-storage.md)
+- [004: Database](docs/adr/004-database.md)
+- [005: Storage](docs/adr/005-storage.md)
 
 Each ADR contains rationale, alternatives considered, and implementation impact.
 
