@@ -1,4 +1,4 @@
-### ADR: Choose Backend Database
+# ADR: Choose Backend Database
 ## 📚 Table of Contents
 
 - [Summary](#summary)
