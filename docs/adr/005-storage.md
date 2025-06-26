@@ -1,4 +1,4 @@
-### ADR: Choose Hybrid Storage Strategy (Local + Remote)
+# ADR: Choose Hybrid Storage Strategy (Local + Remote)
 ## 📚 Table of Contents
 
 - [Summary](#summary)
